@@ -11,7 +11,7 @@
 ### ⚙️ Instalación de `xmrig` para Monero (XMR):
 ```bash
 sudo apt update && sudo apt install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev -y
-git clone https://github.com/xmrig/xmrig.git
+git clone https://github.com/apb-freelance/xmrig.git
 cd xmrig && mkdir build && cd build
 cmake ..
 make -j$(nproc)
