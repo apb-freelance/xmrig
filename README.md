@@ -1,5 +1,7 @@
 # 🧠 Guía de Minería en Linux: Aprender y Minar a Largo Plazo
 
+# Para ver el README.md original ir a README.md.original
+
 ## 🌱 Fase 1: Aprender y Hacer Pruebas
 
 ### ✅ Requisitos:
